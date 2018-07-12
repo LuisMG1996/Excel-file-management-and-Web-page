@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 12, 2018, 12:39:46 PM
+    Author     : lmontesg
+*/
+
+body{
+    background-color: #E20074;
+}
+
+.main-menu-text{
+   color: #ffffff;
+   font-family: 'Chonburi', cursive;
+}
+.client-button{
+    margin-bottom: 1em;
+}
+.client-div{
+    max-height: 150px;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 3em;
+}
